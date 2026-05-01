@@ -21,10 +21,15 @@ class SomiaKhan:
         self.tools       = ["Supabase", "MySQL", "Express.js", "Google Gemini AI"]
         self.interests   = ["Full-Stack Dev", "ML & AI", "Database Design",
                             "UX Research", "System Documentation"]
-        self.beyond_code = ["Gaming", "Sketching & Portraits", "Baking", "Crafting"]
-        self.games       = ["Cyberpunk 2077 all endings", "RDR2", "Valorant",
-                            "The Last of Us II", "God of War", "Resident Evil Village"]
-        self.fun_fact    = "Once flipped a coin 3x at 3AM to decide noodle portions. Cooked both."
+        self.games       = ["Cyberpunk 2077 all endings", "RDR2", "SOMA",
+                            "The Last of Us II", "God of War", "Resident Evil Village"..... "So many more"]
+        self.beyond_code = ## ✨ Beyond Code
+        ```
+        Someone who codes, sketches, bakes, solves Rubik's cubes at odd hours,
+        photographs random things, folds origami, games competitively,
+        and still shows up to debug at midnight.
+        Basically — if it requires focus or creativity, I've probably tried it.
+        ```
 
     def say_hi(self):
         print("Welcome to my GitHub. Hope you brought snacks. 🖤")
@@ -71,14 +76,15 @@ class SomiaKhan:
 I approach projects with the full picture — not just writing code, but understanding the problem space.
 
 ```
-📄  Requirements & System Documentation  — use case diagrams, ER diagrams, SRS docs
-🖼️  Prototype & Case Studies             — embedded interactive prototypes, UX flows  
-🎨  Sketching & Illustration             — hand-drawn posters, anime & portrait art
-🍳  Cooking & Baking                     — stress relief that is actually edible
-🎮  Gaming                               — a whole personality, not just a hobby
+| creative | digital & stories | physical | comfort zone |
+|---|---|---|---|
+| sketching · portraits | gaming · anime | inline skating · ballet | baking · cooking |
+| origami · crafting | manhwa · manga | gymnastics · puzzles | reading · being alone |
+| photography · posters | crime & haunted docs | rubik's cube · board games | late night noodles |
+
+*does everything. somehow also sleeps.*
 ```
 
----
 
 ## 📊 GitHub Stats
 
