@@ -84,8 +84,9 @@ I approach projects with the full picture — not just writing code, but underst
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SomiaKhan-eng&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiaKhan-eng&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=SomiaKhan-eng&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiaKhan-eng&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=ffffff" />
 
 </div>
 
