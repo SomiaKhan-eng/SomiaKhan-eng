@@ -23,13 +23,15 @@ class SomiaKhan:
                             "UX Research", "System Documentation"]
         self.games       = ["Cyberpunk 2077 all endings", "RDR2", "SOMA",
                             "The Last of Us II", "God of War", "Resident Evil Village"..... "So many more"]
-        self.beyond_code = ## ✨ Beyond Code
-        ```
-        Someone who codes, sketches, bakes, solves Rubik's cubes at odd hours,
-        photographs random things, folds origami, games competitively,
-        and still shows up to debug at midnight.
-        Basically — if it requires focus or creativity, I've probably tried it.
-        ```
+        self.currently   = ["debugging code and life simultaneously"]
+        self.motto       = ["build it. break it. document it. ship it."]
+
+        ## ✨ Beyond Just Code
+        `creative` · sketching · portraits · origami · crafting · photography
+        `digital` · gaming · anime · manhwa · manga · crime docs · haunted docs
+        `physical` · inline skating · ballet · gymnastics · rubik's cube · board games
+        `comfort` · baking · cooking · reading · being alone · late night noodles
+        *does everything. somehow also sleeps.*
 
     def say_hi(self):
         print("Welcome to my GitHub. Hope you brought snacks. 🖤")
@@ -75,7 +77,6 @@ class SomiaKhan:
 
 I approach projects with the full picture — not just writing code, but understanding the problem space.
 
-```
 | creative | digital & stories | physical | comfort zone |
 |---|---|---|---|
 | sketching · portraits | gaming · anime | inline skating · ballet | baking · cooking |
@@ -83,7 +84,8 @@ I approach projects with the full picture — not just writing code, but underst
 | photography · posters | crime & haunted docs | rubik's cube · board games | late night noodles |
 
 *does everything. somehow also sleeps.*
-```
+
+
 
 
 ## 📊 GitHub Stats
