@@ -92,9 +92,7 @@ I approach projects with the full picture — not just writing code, but underst
 
 <div align="center">
     
-<img src="https://github-readme-stats.vercel.app/api?username=SomiaKhan-eng&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiaKhan-eng&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=ffffff&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SomiaKhan-eng&theme=midnight_purple" width="100%"/>
 
 </div>
 
