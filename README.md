@@ -91,10 +91,27 @@ I approach projects with the full picture — not just writing code, but underst
 ## 📊 GitHub Stats
 
 <div align="center">
+    
+<img src="https://github-readme-stats.vercel.app/api?username=SomiaKhan-eng&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff&cache_seconds=1800" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomiaKhan-eng&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=ffffff&cache_seconds=1800" />
+
+</div>
+
+
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SomiaKhan-eng&theme=midnight-purple&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=ffffff)
 
 </div>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SomiaKhan-eng&theme=react-dark&hide_border=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=ffffff)](https://github.com/SomiaKhan-eng)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SomiaKhan-eng/SomiaKhan-eng/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SomiaKhan-eng/SomiaKhan-eng/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SomiaKhan-eng/SomiaKhan-eng/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
