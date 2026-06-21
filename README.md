@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Somia%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Gamer%20%7C%20Artist&descAlignY=55&descAlign=50" width="100%"/>
-# Hey, I'm Somia Khan 👋🖤
+# Hey, I'm Somia Khan 
 
 ### Software Engineer · Builder · Gamer · Artist
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 ```python
 class SomiaKhan:
@@ -26,7 +26,7 @@ class SomiaKhan:
         self.currently   = ["debugging code and life simultaneously"]
         self.motto       = ["build it. break it. document it. ship it."]
 
-        ## ✨ Beyond Just Code
+        ## Beyond Just Code
         `creative` · sketching · portraits · origami · crafting · photography
         `digital` · gaming · anime · manhwa · manga · crime docs · haunted docs
         `physical` · inline skating · ballet · gymnastics · rubik's cube · board games
@@ -39,7 +39,7 @@ class SomiaKhan:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -58,22 +58,22 @@ class SomiaKhan:
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <div align="center">
 
 | Project | Description | Stack |
 |---|---|---|
-| [🧠 Clarity — OCD Support App](https://github.com/SomiaKhan-eng/Clarity-OCD-App) | Mental wellness app for OCD patients featuring diagnostic surveys, ERP exercises, breathing tools, journaling, SOS support & community forum | `React` `TypeScript` `Supabase` |
-| [💡 IdeaSpark Platform](https://github.com/SomiaKhan-eng/Idea-incubator-platform) | Full-stack idea incubator with AI mentoring, marketplace, analytics & team management — powered by Google Gemini AI | `Node.js` `MySQL` `Gemini AI` `Express` |
-| [🔍 FBI Database System](https://github.com/SomiaKhan-eng/fbi-database-system) | Role-based case management system with admin, agent, analyst & forensic dashboards | `MySQL` `Node.js` `HTML/CSS/JS` |
-| [💳 Loan Prediction ML](https://github.com/SomiaKhan-eng/loan-prediction-ml) | Machine learning model predicting bank loan approvals | `Python` `Scikit-learn` `Pandas` |
+| [Clarity — OCD Support App](https://github.com/SomiaKhan-eng/Clarity-OCD-App) | Mental wellness app for OCD patients featuring diagnostic surveys, ERP exercises, breathing tools, journaling, SOS support & community forum | `React` `TypeScript` `Supabase` |
+| [IdeaSpark Platform](https://github.com/SomiaKhan-eng/Idea-incubator-platform) | Full-stack idea incubator with AI mentoring, marketplace, analytics & team management — powered by Google Gemini AI | `Node.js` `MySQL` `Gemini AI` `Express` |
+| [FBI Database System](https://github.com/SomiaKhan-eng/fbi-database-system) | Role-based case management system with admin, agent, analyst & forensic dashboards | `MySQL` `Node.js` `HTML/CSS/JS` |
+| [Loan Prediction ML](https://github.com/SomiaKhan-eng/loan-prediction-ml) | Machine learning model predicting bank loan approvals | `Python` `Scikit-learn` `Pandas` |
 
 </div>
 
 ---
 
-## 📐 Beyond Just Code
+## Beyond Just Code
 
 I approach projects with the full picture — not just writing code, but understanding the problem space.
 
@@ -88,7 +88,7 @@ I approach projects with the full picture — not just writing code, but underst
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
     
