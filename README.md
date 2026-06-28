@@ -1,10 +1,11 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Somia%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Gamer%20%7C%20Artist&descAlignY=55&descAlign=50" width="100%"/>
-# Hey, I'm Somia Khan 
+
+# Hey, I'm Somia Khan
 
 ### Software Engineer · Builder · Gamer · Artist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+things+that+actually+matter.;Full-stack+%7C+AI+%7C+Databases+%7C+UX+Research;Gamer+by+night.+Engineer+by+day.;Currently+debugging+life.+Send+help.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+things+that+actually+matter.;Full-stack+%7C+AI+%7C+Cloud+%7C+Databases;Gamer+by+night.+Engineer+by+day.;Currently+debugging+life.+Send+help.)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,20 +18,24 @@ class SomiaKhan:
     def __init__(self):
         self.role        = "Software Engineer"
         self.stack       = ["Python", "JavaScript", "TypeScript",
-                            "React", "Node.js", "SQL", "HTML/CSS"]
-        self.tools       = ["Supabase", "MySQL", "Express.js", "Google Gemini AI"]
-        self.interests   = ["Full-Stack Dev", "ML & AI", "Database Design",
-                            "UX Research", "System Documentation"]
-        self.games       = ["Cyberpunk 2077 all endings", "RDR2", "SOMA",
-                            "The Last of Us II", "God of War", "Resident Evil Village"..... "So many more"]
+                            "React", "Node.js", "FastAPI", "C", "SQL", "HTML/CSS"]
+        self.tools       = ["AWS Bedrock", "AWS S3", "Supabase", "MySQL",
+                            "Express.js", "Google Gemini AI", "Google Cloud Run",
+                            "Scikit-learn", "Pandas", "NetworkX"]
+        self.interests   = ["Full-Stack Dev", "ML & AI", "Cloud Deployment",
+                            "Database Design", "UX Research", "OS Concepts",
+                            "Information Security", "Game Development"]
+        self.games       = ["Cyberpunk 2077 (all endings)", "RDR2", "The Last of Us II",
+                            "God of War", "Resident Evil Village", "Valorant",
+                            "Apex Legends", "... so many more"]
         self.currently   = ["debugging code and life simultaneously"]
         self.motto       = ["build it. break it. document it. ship it."]
 
         ## Beyond Just Code
         `creative` · sketching · portraits · origami · crafting · photography
-        `digital` · gaming · anime · manhwa · manga · crime docs · haunted docs
+        `digital`  · gaming · anime · manhwa · manga · crime docs · haunted docs
         `physical` · inline skating · ballet · gymnastics · rubik's cube · board games
-        `comfort` · baking · cooking · reading · being alone · late night noodles
+        `comfort`  · baking · cooking · reading · being alone · late night noodles
         *does everything. somehow also sleeps.*
 
     def say_hi(self):
@@ -46,12 +51,16 @@ class SomiaKhan:
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
@@ -64,10 +73,15 @@ class SomiaKhan:
 
 | Project | Description | Stack |
 |---|---|---|
-| [Clarity — OCD Support App](https://github.com/SomiaKhan-eng/Clarity-OCD-App) | Mental wellness app for OCD patients featuring diagnostic surveys, ERP exercises, breathing tools, journaling, SOS support & community forum | `React` `TypeScript` `Supabase` |
-| [IdeaSpark Platform](https://github.com/SomiaKhan-eng/Idea-incubator-platform) | Full-stack idea incubator with AI mentoring, marketplace, analytics & team management — powered by Google Gemini AI | `Node.js` `MySQL` `Gemini AI` `Express` |
-| [FBI Database System](https://github.com/SomiaKhan-eng/fbi-database-system) | Role-based case management system with admin, agent, analyst & forensic dashboards | `MySQL` `Node.js` `HTML/CSS/JS` |
-| [Loan Prediction ML](https://github.com/SomiaKhan-eng/loan-prediction-ml) | Machine learning model predicting bank loan approvals | `Python` `Scikit-learn` `Pandas` |
+| [JobLedger](https://github.com/SomiaKhan-eng/JobLedger) | AI-powered job application tracker — uploads your CV to S3, analyses it against job descriptions via AWS Bedrock (Claude Haiku), and returns match scores, skill gaps, and predicted interview questions | `React` `Node.js` `MySQL` `AWS Bedrock` `AWS S3` |
+| [Clarity — OCD Support App](https://github.com/SomiaKhan-eng/Clarity-OCD-App) | Mental wellness app for OCD patients featuring diagnostic surveys, ERP exercises, breathing tools, journaling, SOS support and community forum | `React` `TypeScript` `Supabase` |
+| [IdeaSpark Platform](https://github.com/SomiaKhan-eng/Idea-incubator-platform) | Full-stack idea incubator with voting, investment tracking, team formation, analytics dashboard, and AI mentoring | `Node.js` `MySQL` `Gemini AI` `Express` |
+| [Studyflow](https://github.com/SomiaKhan-eng/studyflow) | Exam planner that auto-generates a day-by-day study schedule and tracks daily burnout risk using a weighted formula across work hours, sleep, and stress | `FastAPI` `Python` `MySQL` |
+| [OS Simulator](https://github.com/SomiaKhan-eng/os-simulator) | Modular OS simulator covering 7 CPU scheduling algorithms, Banker's Algorithm deadlock detection, thread synchronization, and Resource Allocation Graph visualization | `C` `Python` |
+| [Information Security Project](https://github.com/SomiaKhan-eng/infosec-project) | Risk assessment, Vigenere/Vernam/DES-like cryptography, five-phase attacker simulation, and CIA Triad analysis applied to OS-level vulnerabilities | `Python` |
+| [Titanic Survival Analysis](https://github.com/SomiaKhan-eng/titanic-dwm) | Full data mining pipeline on Titanic dataset — cleaning, EDA, visualization, and logistic regression survival prediction (79.88% accuracy) | `Python` `Pandas` `Scikit-learn` |
+| [FBI Database System](https://github.com/SomiaKhan-eng/fbi-database-system) | Role-based case management system with admin, agent, analyst and forensic dashboards — cases, warrants, evidence, and criminal records | `MySQL` `Node.js` `HTML/CSS/JS` |
+| [Loan Prediction ML](https://github.com/SomiaKhan-eng/loan-prediction-ml) | Comparative study of 6 ML classifiers on bank loan approval data — Decision Tree achieved 97.78% accuracy | `Python` `Scikit-learn` `Pandas` |
 
 </div>
 
@@ -85,17 +99,15 @@ I approach projects with the full picture — not just writing code, but underst
 
 *does everything. somehow also sleeps.*
 
-
-
+---
 
 ## GitHub Stats
 
 <div align="center">
-    
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SomiaKhan-eng&theme=midnight_purple" width="100%"/>
 
 </div>
-
 
 <div align="center">
 
